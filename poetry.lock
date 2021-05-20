@@ -205,7 +205,7 @@ description = "The next generation HTTP client."
 name = "httpx"
 optional = false
 python-versions = ">=3.6"
-version = "0.9.3"
+version = ">=0.9.3"
 
 [package.dependencies]
 certifi = "*"

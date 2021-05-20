@@ -408,7 +408,7 @@ description = "A web server and web framework that's written to go fast. Build f
 name = "sanic"
 optional = false
 python-versions = ">=3.6"
-version = "19.12.2"
+version = ">=19.12.2"
 
 [package.dependencies]
 aiofiles = ">=0.3.0"
